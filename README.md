@@ -3,7 +3,7 @@
 <p align="center">Template front-end for login screen</p>
 
 <h2> How to get started ?</h2>
-<p><strong>First step:</strong> Install npm(Node Package Mananger) in your project folder, with the following command at the command prompt:</p>
+<p><strong>First step:</strong> Install npm(Node Package Mananger) in your project folder, with the following command at the cmd or PowerShell:</p>
 <p>- npm install</p>
 
 <p><strong>Second step:</strong> After installing node_modules, you need to initialize the node inside the folder, with the following command at the command prompt:
