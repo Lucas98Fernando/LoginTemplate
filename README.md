@@ -12,4 +12,4 @@
 <p><strong>Third step:</strong> Open a new command prompt window in parallel and use the following command:</p>
 <p>- npx react-native run-android</p>
 
-<h3>Alright ! Vou are already able to make changes.</h3>
+<h3>Alright ! You are already able to make changes.</h3>
